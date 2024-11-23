@@ -2,6 +2,8 @@ import React from "react";
 import whiteCar from "../../assets/white-car.png";
 import car2 from "../../assets/car5.png";
 import car3 from "../../assets/car6.png";
+import car4 from "../../assets/fr.png";
+import car5 from "../../assets/fr2.png";
 
 const carList = [
   {
@@ -25,13 +27,13 @@ const carList = [
   {
     name: "BMW UX",
     price: 100,
-    image: whiteCar,
+    image: car4,
     aosDelay: "0",
   },
   {
     name: "KIA UX",
     price: 140,
-    image: car2,
+    image: car5,
     aosDelay: "500",
   },
   {
@@ -43,19 +45,19 @@ const carList = [
   {
     name: "BMW UX",
     price: 100,
-    image: whiteCar,
+    image: car4,
     aosDelay: "0",
   },
   {
     name: "KIA UX",
     price: 140,
-    image: car2,
+    image: car3,
     aosDelay: "500",
   },
   {
     name: "BMW UX",
     price: 100,
-    image: car3,
+    image: car5,
     aosDelay: "1000",
   },
 ];
