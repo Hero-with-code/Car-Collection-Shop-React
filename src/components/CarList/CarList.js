@@ -9,19 +9,19 @@ const carList = [
   {
     name: "BMW UX",
     price: 100,
-    image: whiteCar,
+    image: car2,
     aosDelay: "0",
   },
   {
     name: "KIA UX",
     price: 140,
-    image: car2,
+    image: car3,
     aosDelay: "500",
   },
   {
     name: "BMW UX",
     price: 100,
-    image: car3,
+    image: whiteCar,
     aosDelay: "1000",
   },
   {
@@ -39,19 +39,19 @@ const carList = [
   {
     name: "BMW UX",
     price: 100,
-    image: car3,
+    image: car4,
     aosDelay: "1000",
   },
   {
     name: "BMW UX",
     price: 100,
-    image: car4,
+    image: car5,
     aosDelay: "0",
   },
   {
     name: "KIA UX",
     price: 140,
-    image: car3,
+    image: car2,
     aosDelay: "500",
   },
   {
